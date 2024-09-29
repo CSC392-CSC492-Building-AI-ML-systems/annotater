@@ -6,8 +6,8 @@
             <v-row>
                 <v-col>
                     <v-card-item>
-                        <v-card-text>
-                            <div id="player"></div>
+                        <v-card-text class="fill-height">
+                            <div id="player" style="width: 100%; height: 100%;"></div>
                         </v-card-text>
 
                         <v-card-text>
